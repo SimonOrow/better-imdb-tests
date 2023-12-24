@@ -5,6 +5,7 @@ Better IMDB is an online movie database website that I worked on with a team dur
 This repository contains a Java program I developed to perform various tests on the website using the Selenium framework. 
 
 Live website: https://simonorow.github.io/better-imdb/
+
 Original GitHub repository: https://github.com/wongmatt93/group-project-2
 
 
