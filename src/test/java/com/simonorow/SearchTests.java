@@ -21,7 +21,6 @@ public class SearchTests extends BaseTests {
     @Test
     public void findSpecificMovie() {
         // Aliens vs Predator: Requiem
-
         String movie = "Aliens vs Predator: Requiem";
         // Enter text in search box and hit return.
         WebElement searchInput = driver.findElement(new By.ById("inquiry"));

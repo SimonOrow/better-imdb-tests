@@ -5,6 +5,7 @@
     <classes>
       <class name="com.simonorow.MovieDBTests"/>
       <class name="com.simonorow.SearchTests"/>
+      <class name="com.simonorow.WatchlistTests"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
